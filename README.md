@@ -13,3 +13,5 @@ The estimated K matrix will be of the form shown below:
 ![K_matrix](K_matrix.png)
 
 The subscript pixels means that the estimated quantities are in units of pixels and not in meters (or in any other metric units). For well manufactured (expensive) cameras, fx pixels and fy pixels are generally same. Also, cx pixels and cy pixels are equal to the image center coordinates. But many times we do not use such good cameras and as a result we expect the above statements to be invalid.
+
+Result are present in Report.pdf
